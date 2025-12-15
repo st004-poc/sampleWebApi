@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "bpTtwE7QgTj9iR5sQ3bPC4vbAQ2jBBrk+lfNVgtygao=",
+  "Source": "sampleWebApi",
+  "BasePath": "_content/sampleWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
