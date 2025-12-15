@@ -11,7 +11,7 @@ namespace SampleApi.Controllers
         {
             return Ok(new
             {
-                Message = "Hello from ASP.NET Core 8 API 🚀",
+                Message = "Hello Hello from ASP.NET Core 8 API 🚀",
                 Date = DateTime.UtcNow
             });
         }

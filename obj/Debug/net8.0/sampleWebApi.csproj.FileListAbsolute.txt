@@ -34,3 +34,4 @@ C:\rnd\sampleWebApi\obj\Debug\net8.0\refint\sampleWebApi.dll
 C:\rnd\sampleWebApi\obj\Debug\net8.0\sampleWebApi.pdb
 C:\rnd\sampleWebApi\obj\Debug\net8.0\sampleWebApi.genruntimeconfig.cache
 C:\rnd\sampleWebApi\obj\Debug\net8.0\ref\sampleWebApi.dll
+C:\rnd\sampleWebApi\obj\Debug\net8.0\sampleWebApi.sourcelink.json
